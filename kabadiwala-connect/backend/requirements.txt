@@ -1,0 +1,14 @@
+fastapi==0.115.*
+uvicorn[standard]==0.30.*
+SQLAlchemy==2.0.*
+psycopg2-binary==2.9.*
+pydantic==2.*
+python-multipart==0.0.*
+Pillow>=11.0.0
+python-dotenv==1.*
+firebase-admin==6.*
+pytest==8.*
+httpx==0.27.*
+# Optional: install only when you have a trained classifier (see docs/architecture.md)
+# tensorflow>=2.16
+# numpy
